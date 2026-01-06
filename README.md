@@ -55,12 +55,10 @@ The study demonstrates that **MMSE scores and memory complaints** are the most i
 
 ## Repository Contents
 - `*.R` – R script for data preprocessing, statistical testing, modeling, and visualization  
-- `AS REPORT.pdf` – Detailed project report  
-- `AS PROJECT.pdf` – Project presentation slides  
-
----
+- `REPORT.pdf` –  project report  : A detailed academic report describing the methodology, statistical tests, and interpretations
 
 ## Academic Context
-- **Course:** INFO-B518 – Applied Statistics in Biomedical Informatics  
-- **Institution:** Indiana University Indianapolis  
+- Developed as part of graduate-level coursework in Applied Statistics
+- Institution: Indiana University Indianapolis
+* Indiana University Indianapolis  
 - **Project Type:** Team-based academic project
